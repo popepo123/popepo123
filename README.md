@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm NelloW</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyDev123&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyDev123&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=popepo123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popepo123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
