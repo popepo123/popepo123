@@ -27,16 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats Summary
-
-- 🔥 Total Stars: `1.2k+`  
-- 📝 Commits (2025): `51`  
-- 🔧 Pull Requests: `24`  
-- 🐛 Issues Resolved: `8`  
-- 🌱 Contributions (Last Year): `2`  
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
