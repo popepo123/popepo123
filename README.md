@@ -1,12 +1,3 @@
-<h1 align="center"><strong>NelloW</strong></h1>
-<h3 align="center">Full Stack Developer · Open Source Enthusiast · Technology Explorer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=popepo123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=popepo123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popepo123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
