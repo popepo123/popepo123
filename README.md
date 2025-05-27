@@ -17,16 +17,6 @@
 
 ---
 
-## GitHub Overview
-
-- Stars: `1.2k+`
-- Commits (2025): `51`
-- Pull Requests: `24`
-- Issues Opened: `8`
-- Projects Contributed (12 months): `2`
-
----
-
 ## Contact
 
 <p align="center">
