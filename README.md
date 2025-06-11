@@ -20,13 +20,13 @@
 ## Contact
 
 <p align="center">
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/ZKaERSqdW5" target="_blank">
     <img src="https://img.shields.io/badge/Discord-2C2F33?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/@nellow1" target="_blank">
+  <a href="https://instagram.com/@nellow15_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-262626?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/" target="_blank">
+  <a href="https://facebook.com/nofacebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1C1E21?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
