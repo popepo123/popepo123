@@ -3,8 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popepo123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
 ## Tech Stack
 
 <p align="center">
@@ -15,8 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
 </p>
 
----
-
 ## Contact
 
 <p align="center">
@@ -26,12 +22,7 @@
   <a href="https://instagram.com/@nellow15_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-262626?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/nofacebook" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1C1E21?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </p>
-
----
 
 ## Visitor Counter
 
