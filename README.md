@@ -23,9 +23,3 @@
     <img src="https://img.shields.io/badge/Instagram-262626?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-## Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/popepo123/count.svg" />
-</p>
